@@ -1,0 +1,163 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+
+  .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .carousel-item {
+    position: relative;
+    height: 100vh;
+    }
+
+  .carousel{
+    position: relative;
+  }
+  #myfooter{
+            
+    height:40px;
+    background-color:#212529;
+    color: #a59191;
+    font-size:15px;
+    padding-top: 15px;
+    
+  }
+  .footer-data{
+    text-decoration:none;
+    color:  #a59191;
+  }
+  #bank-name-1 {
+    position: absolute;
+    top: 33%;
+    left: 33%;
+    font-family: 'Oswald', sans-serif;
+    z-index: 20;
+    color: white;
+    
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+    font-size: 8vw;
+  }
+  #bank-name-3 {
+    position: absolute;
+    top: 33%;
+    left: 33%;
+    font-family: 'Oswald', sans-serif;
+    z-index: 20;
+    color:  #cd2b1f;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+    font-size: 8vw;
+  }
+  #bank-name-2 {
+    position: absolute;
+    top: 33%;
+    left: 33%;
+    font-family: 'Oswald', sans-serif;
+    z-index: 20;
+    color: #795548;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+    font-size: 8vw;
+  }
+  #caption-1{
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+      color: white;
+      }
+  #caption-3{
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+      color:  #cd2b1f;
+      }
+  #caption-2{
+      font-size: 20px;
+      font-family: 'Bebas Neue', cursive;
+      color:  #795548;
+      
+  }
+  body {
+    position: relative;
+}
+
+/* about.php */
+.row {
+    position: relative;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #2abaad;
+    border-color: #0f1918;
+}
+
+
+/* view.php */
+.card{
+        
+   width: 45vw;
+   margin: auto;
+   margin-top: 100px;
+   height:50vh;
+   text-align:center;
+   background-color: #979e9e;
+   opacity: 90%;
+   z-index: 10;
+}
+.card-title{
+   font-size:2.5vw;
+   padding:20px;
+   opacity: 100%;
+  
+   font-family: 'Permanent Marker', cursive;
+}
+.card-text{
+  font-size:2vw;
+  font-family: 'Staatliches', cursive;
+  color:white;
+}
+
+/* allcus.php */
+#tabledata {
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    max-height: 40px;
+    width: 90%;
+    border: 4px solid white;
+}
+
+.table-dark {
+    border-color: #eef3f8;
+}
+
+#viewb {
+    color: #fff;
+    background-color: #2abaad;
+    border-color: #000101;
+}
+
+#view-btn {
+    text-decoration: none;
+}
+
+.btn-primary{
+color: #fff;
+background-color:#2abaad;
+border-color: #9e9e9e;
+}
+/* history.php */
+#history-table {
+
+  /* margin: 35px 35px 20px 30px; */
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  max-height: 40px;
+  width: 90%;
+  border: 4px solid white;
+}
+
+
